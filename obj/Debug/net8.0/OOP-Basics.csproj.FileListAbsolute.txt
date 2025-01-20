@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\bin\Debug\net8.0\OOP-Basics.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\refint\OOP-Basics.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\OOP-Basics.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\5. Object-Oriented Programming (OOP) Basics\OOP-Basics\obj\Debug\net8.0\ref\OOP-Basics.dll
